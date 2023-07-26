@@ -1,2 +1,3 @@
-# precourse-henry
-Este es un repositorio de prueba del modulo 2 
+Oscar Cabrera
+
+Este es un ejercicio de como crear un repositorio y clonarlo desde github a nuestra computadora
